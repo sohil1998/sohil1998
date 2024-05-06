@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs, Rust, NodeJs**
 
-- 💬 Ask me about **React, React Native, JavaScript, TypeScript, Application Development, Build Deployment, cpp, dsa**
+- 💬 Ask me about **React, React Native, JavaScript, TypeScript, Application Development, Build Deployment, C++, DSA**
 
 - 📫 How to reach me **sohilshaikh3007@gmail.com**
 
