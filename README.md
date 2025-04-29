@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohil Shaikh</h1>
-<h3 align="center">AI Art | Software Development 📱💻 | Programming | Exploring the fusion of creativity and technology 🎨✨</h3>
+<h3 align="center">Software Development 📱💻 | Programming | Exploring the fusion of creativity and technology 🎨✨</h3>
 
-- 🌱 I’m currently learning **NextJs, Rust, NodeJs**
+- 🌱 I’m currently learning **DSA, REACT NATIVE**
 
-- 💬 Ask me about **React, React Native, JavaScript, TypeScript, Application Development, Build Deployment, C++, DSA**
+- 💬 Ask me about **React, React Native, JavaScript, TypeScript, Application Development, Build Deployment, DSA**
 
 - 📫 How to reach me **sohilshaikh3007@gmail.com**
 
