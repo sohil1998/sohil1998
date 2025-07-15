@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, REACT NATIVE**
 
-- 💬 Ask me about **React, React Native, JavaScript, TypeScript, Application Development, Build Deployment, DSA**
+- 💬 Ask me about **React, React Native, JavaScript, TypeScript, Application Development, Build Deployment, DSA, DevOps, Cloud**
 
 - 📫 How to reach me **sohilshaikh3007@gmail.com**
 
