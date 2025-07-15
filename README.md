@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohil Shaikh</h1>
 <h3 align="center">Software Development 📱💻 | Programming | Exploring the fusion of creativity and technology 🎨✨</h3>
 
-- 🌱 I’m currently learning **DSA, REACT NATIVE**
+- 🌱 I’m currently learning **Cloud + DevOps, Full Stack (MERN)**
 
 - 💬 Ask me about **React, React Native, JavaScript, TypeScript, Application Development, Build Deployment, DSA, DevOps, Cloud**
 
